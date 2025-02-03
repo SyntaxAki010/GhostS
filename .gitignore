@@ -169,7 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
 .gitignore
 *.json
 *.txt
+=======
+*.json
+>>>>>>> 1190a115025318d17af5e181ff79b0f859a7efc3
